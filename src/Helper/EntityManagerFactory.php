@@ -18,7 +18,7 @@ class EntityManagerFactory
         $rootDir = __DIR__ . '/../..';
         $config = Setup::createAnnotationMetadataConfiguration([$rootDir . '/src'], true);
         $connection = [
-            'driver' => '',
+            'driver' => 'pdo_mysql',
             'user' => '',
             'password' => '',
             'dbname' => '',
