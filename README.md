@@ -1,10 +1,12 @@
 # MVC Skeleton
 <h3>A MVC pattern skeleton for new projects</h3>
 <br>
-It uses Doctrine ORM and Migrations (install via composer)
+<p>It uses Doctrine ORM and Migrations</p>
 <br>
+<li>Clone the repository</li>
+<li>Run <code>composer install</code></li>
 <br>
-Create your models in <code>/src/Entity/</code><br>
-Create your controllers in <code>/src/Controller/</code><br>
-Create your views in <code>/view/</code><br>
-Register your routes in <code>/cfg/routes.php</code><br>
+<p>Create your models in <code>/src/Entity/</code></p>
+<p>Create your controllers in <code>/src/Controller/</code></p>
+<p>Create your views in <code>/view/</code></p>
+<p>Register your routes in <code>/cfg/routes.php</code></p>
