@@ -1,5 +1,5 @@
 # MVC Skeleton
-A MVC pattern skeleton for new projects
+<h3>A MVC pattern skeleton for new projects</h3>
 <br>
 It uses Doctrine ORM and Migrations (install via composer)
 <br>
