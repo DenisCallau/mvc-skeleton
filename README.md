@@ -5,6 +5,7 @@
 <br>
 <li>Clone the repository</li>
 <li>Run <code>composer install</code></li>
+<li>Config database in <code>/src/Herlper/EntityManagerFactory.php</code> if needed</li>
 <br>
 <p>Create your models in <code>/src/Entity/</code></p>
 <p>Create your controllers in <code>/src/Controller/</code></p>
